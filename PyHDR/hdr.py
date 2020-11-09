@@ -1,6 +1,6 @@
-class HDR()
+class HDR():
 
-    def __init__()
+    def __init__():
 
     def hdr(pm_trials, var=0, ent=0, attr1=0, attr2=0, round_off= 15):
         """Hubbard Decision Research counter-based PRNG"""
